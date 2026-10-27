@@ -1,4 +1,4 @@
-package com.aminul.dsa;
+package assingment_conditionals;
 import java.util.*;
 public class reverse_string {
     public static void main(String[] args) {

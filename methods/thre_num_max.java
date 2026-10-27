@@ -1,9 +1,9 @@
-package com.aminul.dsa;
+package methods;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class three_number_max_min {
+public class thre_num_max {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the first number : ");

@@ -1,6 +1,6 @@
-package com.aminul.dsa;
+package condtional_and_loops;
 import java.util.*;
-public class reverse {
+public class reverse_int {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the number to reverse its digits : ");

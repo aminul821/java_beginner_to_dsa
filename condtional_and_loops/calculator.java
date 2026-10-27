@@ -1,8 +1,8 @@
-package com.aminul.dsa;
+package condtional_and_loops;
 
 import java.util.Scanner;
 
-public class Calculator {
+public class calculator {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         // Take input from user till user does not press X or x

@@ -1,7 +1,8 @@
+package assingment_conditionals;
 
 import java.util.Scanner;
 
-public class NumberSums {
+public class odd_sum_even_sum {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

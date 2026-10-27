@@ -1,7 +1,7 @@
-package com.aminul.dsa;
+package assingment_conditionals;
 import java.util.*;
 
-public class Subtract_sum_product {
+public class product_subs_sum {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter ur integer : ");

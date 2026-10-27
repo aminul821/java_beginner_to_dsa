@@ -1,8 +1,8 @@
-package com.aminul.dsa;
+package condtional_and_loops;
 
 import java.util.Scanner;
 
-public class casecheck {
+public class fibonnaci {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("choose the amount of fibonnaci series u want (more than 2): ");

@@ -1,4 +1,4 @@
-package com.aminul.dsa;
+package methods;
 
 import java.util.Scanner;
 
