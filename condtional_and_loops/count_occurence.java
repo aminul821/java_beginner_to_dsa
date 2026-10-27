@@ -1,4 +1,4 @@
-package com.aminul.dsa;
+package condtional_and_loops;
 import java.util.*;
 public class count_occurence {
     public static void main(String[] args) {

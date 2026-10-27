@@ -1,4 +1,4 @@
-package com.aminul.dsa;
+package condtional_and_loops;
 import java.util.*;
 public class reverse {
     public static void main(String[] args) {

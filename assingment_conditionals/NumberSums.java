@@ -1,3 +1,4 @@
+package assingment_conditionals;
 
 import java.util.Scanner;
 
