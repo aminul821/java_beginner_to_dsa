@@ -2,7 +2,7 @@ package methods;
 
 import java.util.Scanner;
 
-public class prime_number_between_two_number {
+public class prime_between_two {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the First number :");

@@ -2,7 +2,7 @@ package assingment_conditionals;
 
 import java.util.Scanner;
 
-public class find_larges_until_stop {
+public class largest_in_continous_input {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enterr the numbers and type 0 to stop");

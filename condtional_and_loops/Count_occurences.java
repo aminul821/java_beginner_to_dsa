@@ -1,6 +1,6 @@
 package condtional_and_loops;
 import java.util.*;
-public class count_occurence {
+public class Count_occurences {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the number where u want to find the occurence : ");

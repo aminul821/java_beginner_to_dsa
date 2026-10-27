@@ -1,6 +1,6 @@
 package assingment_conditionals;
 import java.util.*;
-public class armstrong_number {
+public class armstrong {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the number :");

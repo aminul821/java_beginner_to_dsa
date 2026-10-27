@@ -1,6 +1,6 @@
 package assingment_conditionals;
 import java.util.*;
-public class lcm_and_hcf {
+public class hcf_and_lcm {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter two number to fond hcf or lcm , enter the first : ");
