@@ -9,14 +9,14 @@ public class hcf_and_lcm {
         int n2 = in.nextInt();
         int value = 0;
         if(n1>n2){
-            for(int i = 1;i <=n1/2 ; i++){
+            for(int i = 1;i <=n2 ; i++){
                 if(n1%i == 0 && n2%i == 0){
                     value = i;
                 }
             }
         }
         else{
-            for(int i = 1;i <=n2/2 ; i++){
+            for(int i = 1;i <=n1 ; i++){
                 if(n1%i == 0 && n2%i == 0){
                     value = i;
                 }

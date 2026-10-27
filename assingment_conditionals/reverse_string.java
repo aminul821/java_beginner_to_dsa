@@ -6,7 +6,7 @@ public class reverse_string {
         System.out.println("Enter the string : ");
         String sc = in.next();
         int n = sc.length();
-        for(int i = n-1;i>0;i--){
+        for(int i = n-1;i>=0;i--){
             System.out.print(sc.charAt(i));
         }
     }
