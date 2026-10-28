@@ -1,4 +1,4 @@
-package methods.pythagorea_triplets
+package methods;
 
 import java.util.Scanner;
 
@@ -25,14 +25,11 @@ public class pythagorean_triplets {
     static void pythagoran_trip(int a , int b, int c){
         int max = 0;
         int check =0;
-        if(a>b &&  a>c){
+        if(a>=b &&  a>=c){
             max = a;
             check = power(b,2) + power(c,2);
-            if(power(a,2)==check){
-                System.out.println("Is a pythagorean triplet");
-
-            }
-        } else if (b>a&&b>c) {
+            
+        } else if (b>=a&&b>=c) {
             max = b;
             check = power(a,2) + power(c,2);
 
